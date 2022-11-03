@@ -1,7 +1,7 @@
 # Android_Lab1
 Лабораторная работа 1
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ```
 if (x>6){
